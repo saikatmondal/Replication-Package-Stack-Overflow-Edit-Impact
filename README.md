@@ -19,14 +19,6 @@ The Zenodo package includes:
 
 ---
 
-## Repository Structure
-
-This repository contains:
-- Core documentation
-- Representative examples
-- Supporting materials for the study
-
----
 
 ## Citation
 
@@ -39,6 +31,7 @@ This repository contains:
   pages = {492-504},
   location = {Auckland, New Zealand}
 }
+```
 
 ---
 
